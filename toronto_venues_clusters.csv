@@ -1,0 +1,38 @@
+,PostalCode,Borough,Neighborhood,Latitude,Longitude,ClusterLabels,1stTopVenueType,2ndTopVenueType,3dTopVenueType
+0,M5A,Downtown Toronto,"Harbourfront, Regent Park",43.65512000000007,-79.36263979699999,0,Coffee Shop,Breakfast Spot,Restaurant
+1,M5B,Downtown Toronto,"Garden District, Ryerson",43.65736301100003,-79.37817999999999,0,Coffee Shop,Clothing Store,Café
+2,M5C,Downtown Toronto,St. James Town,43.65121000000005,-79.37548057699995,0,Restaurant,Coffee Shop,Hotel
+3,M4E,East Toronto,The Beaches,43.67684518300007,-79.29522499999995,0,Pub,Health Food Store,Neighborhood
+4,M5E,Downtown Toronto,Berczy Park,43.64516015600003,-79.37367499999993,0,Coffee Shop,Cocktail Bar,Restaurant
+5,M5G,Downtown Toronto,Central Bay Street,43.65609081300005,-79.38492999999994,0,Coffee Shop,Clothing Store,Cosmetics Shop
+6,M6G,Downtown Toronto,Christie,43.66878132800008,-79.42070999999999,0,Café,Grocery Store,Italian Restaurant
+7,M5H,Downtown Toronto,"Adelaide, King, Richmond",43.649515000000065,-79.38250344699999,0,Hotel,Coffee Shop,Café
+8,M6H,West Toronto,"Dufferin, Dovercourt Village",43.66508694300006,-79.43870499999997,0,Park,Grocery Store,Smoke Shop
+9,M5J,Downtown Toronto,"Harbourfront East, Union Station, Toronto Islands",43.62347000000005,-79.39150736399995,0,Harbor / Marina,Park,American Restaurant
+10,M6J,West Toronto,"Little Portugal, Trinity",43.64848500000005,-79.41774150899994,0,Bar,Coffee Shop,Cocktail Bar
+11,M4K,East Toronto,"The Danforth West, Riverdale",43.683261500000064,-79.35511999999993,0,Bus Line,Discount Store,Park
+12,M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.64710000000007,-79.38153109899997,0,Coffee Shop,Café,Hotel
+13,M6K,West Toronto,"Parkdale Village, Brockton, Exhibition Place",43.639410000000055,-79.42436201999998,0,Coffee Shop,Furniture / Home Store,Restaurant
+14,M4L,East Toronto,"India Bazaar, The Beaches West",43.66796500000004,-79.31467251099997,0,Park,Pizza Place,Sushi Restaurant
+15,M5L,Downtown Toronto,"Commerce Court, Victoria Hotel",43.648205000000075,-79.37879339899995,0,Coffee Shop,Hotel,Café
+16,M4M,East Toronto,Studio District,43.662765652000076,-79.33482999999995,0,Diner,Café,Italian Restaurant
+17,M4N,Central Toronto,Lawrence Park,43.72816000000007,-79.38708518799996,2,Bus Line,Swim School,
+18,M4P,Central Toronto,Davisville North,43.712815000000035,-79.38852582199995,0,Park,Hotel,Burger Joint
+19,M5P,Central Toronto,"Forest Hill West, Forest Hill North",43.694785000000074,-79.41440483299994,1,Home Service,Park,
+20,M6P,West Toronto,"High Park, The Junction South",43.65997500000003,-79.46287357999995,1,Convenience Store,Park,
+21,M4R,Central Toronto,North Toronto West,43.714522784000046,-79.40695999999997,3,Playground,Garden,Park
+22,M5R,Central Toronto,"North Midtown, Yorkville, The Annex",43.674840000000074,-79.40369769099993,0,Café,Sandwich Place,Coffee Shop
+23,M6R,West Toronto,"Parkdale, Roncesvalles",43.64787000000007,-79.44976249999995,0,Coffee Shop,Eastern European Restaurant,Bakery
+24,M4S,Central Toronto,Davisville,43.703395000000064,-79.38596360499997,0,Dessert Shop,Pizza Place,Café
+25,M5S,Downtown Toronto,"Harbord, University of Toronto",43.663110000000074,-79.40180056699995,0,Café,Restaurant,Coffee Shop
+26,M6S,West Toronto,"Swansea, Runnymede",43.64988500000004,-79.47492879599997,0,Coffee Shop,Café,Bakery
+27,M4T,Central Toronto,"Summerhill East, Moore Park",43.69065500000005,-79.38356145799997,4,Playground,Convenience Store,Gym
+28,M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.653570000000066,-79.39724915699999,0,Café,Bar,Vegetarian / Vegan Restaurant
+29,M4V,Central Toronto,"South Hill, Rathnelly, Forest Hill SE, Deer Park, Summerhill West",43.68608285400006,-79.40233499999994,0,Coffee Shop,Light Rail Station,Medical Center
+30,M5V,Downtown Toronto,"Island airport, Harbourfront West, CN Tower, King and Spadina, Bathurst Quay, South Niagara, Railway Lands",43.64081500000003,-79.39953781899999,0,Coffee Shop,Italian Restaurant,Café
+31,M4W,Downtown Toronto,Rosedale,43.68194000000005,-79.378474167,0,Playground,Park,Bank
+32,M5W,Downtown Toronto,Stn A PO Boxes 25 The Esplanade,43.648690000000045,-79.38543999999995,0,Coffee Shop,Steakhouse,Thai Restaurant
+33,M4X,Downtown Toronto,"St. James Town, Cabbagetown",43.668160000000064,-79.366602362,0,Coffee Shop,Restaurant,Italian Restaurant
+34,M5X,Downtown Toronto,"First Canadian Place, Underground city",43.648280000000064,-79.38146082599997,0,Coffee Shop,Café,Hotel
+35,M4Y,Downtown Toronto,Church and Wellesley,43.666585000000055,-79.38130203699995,0,Coffee Shop,Japanese Restaurant,Gay Bar
+36,M7Y,East Toronto,Business Reply Mail Processing Centre 969 Eastern,43.648690000000045,-79.38543999999995,0,Coffee Shop,Steakhouse,Thai Restaurant
